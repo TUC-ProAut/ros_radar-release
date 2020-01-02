@@ -1,0 +1,8 @@
+ros-kinetic-radar-pa-msgs (1.0.1-1xenial) xenial; urgency=high
+
+  * initial release
+  * Contributors: Peter Weissig
+
+ -- Peter Weissig <wepet@hrz.tu-chemnitz.de>  Wed, 01 Jan 2020 23:00:00 -0000
+
+
