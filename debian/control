@@ -1,0 +1,12 @@
+Source: ros-kinetic-radar-pa
+Section: misc
+Priority: optional
+Maintainer: Peter Weissig <wepet@hrz.tu-chemnitz.de>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-can-msgs, ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-radar-pa-msgs, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-radar-pa
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-can-msgs, ros-kinetic-geometry-msgs, ros-kinetic-radar-pa-msgs, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs
+Description: ProAut radar package
